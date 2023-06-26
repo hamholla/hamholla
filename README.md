@@ -1,6 +1,6 @@
 ## Hi there ✋!
 
-I'm Ham Hollett, a passionate front-end developer with a keen eye for creating engaging and user-friendly web experiences. I specialize in Front End Development and React, crafting clean and maintainable code that brings designs to life. I thrive in collaborative environments, working closely with designers and developers to build intuitive and seamless interfaces. When I'm not coding, you can find me exploring new technologies, staying up to date with the latest trends, and constantly seeking ways to level up my skills. Let's connect and create something awesome together!
+I'm Ham Hollett, a passionate web developer with a keen eye for creating engaging and user-friendly web experiences. I specialize in Front End Development and React, crafting clean and maintainable code that brings designs to life. I thrive in collaborative environments, working closely with designers and developers to build intuitive and seamless interfaces. When I'm not coding, you can find me at a local coffee shop, picking up produce at the local farmers market, or cycling my way to a croissant. Let's connect and create something awesome together!
 
 <br/>
 
