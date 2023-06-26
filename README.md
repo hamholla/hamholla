@@ -6,7 +6,7 @@ I'm Ham Hollett, a passionate front-end developer with a keen eye for creating e
 
 ## Languages, Frameworks, and Libraries
 
-I'm proficient in JavaScript and TypeScript, leveraging the power of React.js to build dynamic and responsive web applications. Additionally, I have hands-on experience with HTML5, CSS3, and SASS for crafting visually appealing and accessible user interfaces. Continuous learning drives me to stay up-to-date with the latest industry trends and explore new tools and frameworks to enhance my development toolkit.
+I'm proficient in JavaScript and TypeScript, and I use React to build dynamic, responsive, and scalable web applications. Continuous learning drives me to stay up-to-date with the latest industry trends and explore new tools and frameworks to enhance my development toolkit.
 
 <p>   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
